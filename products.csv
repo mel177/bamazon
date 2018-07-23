@@ -1,4 +1,6 @@
-('Dove Shampoo', 'Cosmetics', 5.75, 500),
+INSERT INTO products(product_name, dept_name, price, stock_quanity)
+
+VALUES ('Dove Shampoo', 'Cosmetics', 5.75, 500),
 		('Biosilk', 'Cosmetics', 6.25, 627),
 		('Glad 12 Gal Trash Bags', 'Grocery', 5.99, 300),
 		('Brawny Paper Towels', 'Grocery', 4.25, 400),
@@ -17,4 +19,4 @@
 		('Benful Dog Food', 'Pet', 12.50, 163),
 		('Advil', 'Pharmacy', 4.95, 389),
 		('Band Aid', 'Pharmacy', 3.25, 550),
-		('Ben & Jerry Ice Cream', 'Grocery', 3.25, 432);
+		('Bluebell Ice Cream', 'Grocery', 3.25, 432);
